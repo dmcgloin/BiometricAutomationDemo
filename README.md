@@ -3,7 +3,7 @@ Dependency-free iOS Face ID and Touch ID automation example.
 
 ## Zoom out
 
-UI testing anything related to biometrics is really tough on iOS because there's no way to simulate/turn on biometrics on the Simulator from within UI tests, wihtout some sort of external dependency.
+UI testing anything related to biometrics is really tough on iOS because there's no way to simulate/turn on biometrics on the Simulator from within UI tests, without some sort of external dependency.
 
 Until now.
 
